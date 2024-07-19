@@ -8,7 +8,7 @@ wIcon = weatherPart.querySelector("img"),
 arrowBack = wrapper.querySelector("header i");
   
 let api;
-const apikey = "6d055e39ee237af35ca066f35474e9df";
+const apikey = "Your api key";
 
 inputField.addEventListener("keyup", e =>{
     // if user pressed enter btn and input value is not empty
